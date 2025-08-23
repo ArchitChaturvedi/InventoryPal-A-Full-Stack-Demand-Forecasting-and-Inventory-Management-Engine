@@ -23,7 +23,7 @@ InventoryPal is a web-based application that allows supply chain managers and in
 ## Tools/Technologies Used
 
 - **Frontend:** React, TypeScript, Vite, TailwindCSS, Recharts
-- **Backend:** Flask, Pandas, NumPy, SciPy, Flask-SQLAlchemy (optional)
+- **Backend:** Flask, Pandas, NumPy, SciPy, SQLAlchemy ORM
 - **Data Handling:** CSV uploads for historical demand
 - **Deployment-ready:** Backend can run on Heroku/Render; Frontend on Vercel/Netlify
 - **Local Server**: Already ran on local server through Microsoft VSCode (http://127.0.0.1:5000 for backend and http://localhost:5173/ for frontend)
